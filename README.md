@@ -41,7 +41,7 @@
 
 [![Email](https://img.shields.io/badge/EMAIL-dharask525%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharask525@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Dharaneesh_S_K-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharaneesh-s-k-547689355)
-[![Resume](https://img.shields.io/badge/RESUME-View_PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1w3YD8d0UuNmi00jRXsPfJADPz7PPNsHX/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/RESUME-View_PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1eovFhbKrqP5fm3sWcAvzPbuVsy03xMph/view?usp=sharing)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-Dharanee__sk-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dharanee_sk/)
 [![Phone](https://img.shields.io/badge/PHONE-%2B91_9080405204-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919080405204)
 
